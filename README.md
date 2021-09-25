@@ -2,7 +2,7 @@
 
 ### Converting  webpage to pdf with laravel and DomPDF
 #Quick Start:<br />
-**git clone https://github.com/tauseedzmaan/laravel-8-html-to-pdf/**<br />
+**git clone https://github.com/tauseedzaman/laravel-8-html-to-pdf/**<br />
 **cd laravel-8-html-to-pdf**<br />
 **composer install**<br />
 <b>Setup .env file </b>
