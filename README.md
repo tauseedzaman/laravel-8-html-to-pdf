@@ -1,14 +1,14 @@
 ## DomPDF with Laravel 8 
 
 ### Converting  webpage to pdf with laravel and DomPDF
-#Quick Start:
-**git clone https://github.com/tauseedzmaan/laravel-8-html-to-pdf/]**
-**cd laravel-8-html-to-pdf**
-**composer install**
-**php artisan migrate**
-**php artisan serve**
-**http://127.0.0.1:8000/**
-
+#Quick Start:<br />
+**git clone https://github.com/tauseedzmaan/laravel-8-html-to-pdf/]**<br />
+**cd laravel-8-html-to-pdf**<br />
+**composer install**<br />
+**php artisan migrate**<br />
+**php artisan serve**<br />
+**http://127.0.0.1:8000/**<br />
+<br /><br />
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
